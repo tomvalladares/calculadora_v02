@@ -1,24 +1,7 @@
 # calculadora_v02
 
-## Project setup
-```
-npm install
-```
+Calculadora básica, realizada con VueJS, usando Vuex para gestionar y las operadoraciones y resultados.
+Se puede mejorar la interfaz visual al operar con el resultado.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**Primer trabajo 5/11/2020**
